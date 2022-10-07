@@ -6,3 +6,4 @@ This is me adding the dazzling feature# planets
 # planet
 # planet
 # myrepository
+Change made as collaborator 
